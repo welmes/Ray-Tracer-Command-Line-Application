@@ -1,0 +1,28 @@
+﻿Build started 11/14/2015 5:28:35 PM.
+     1>Project "C:\Users\RANDY\Documents\Visual Studio 2015\Projects\BasicRayTracer\BasicRayTracer\BasicRayTracer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt RayTracer.cpp
+         RayTracer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RANDY\Documents\Visual Studio 2015\Projects\BasicRayTracer\Debug\BasicRayTracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\RANDY\Documents\Visual Studio 2015\Projects\BasicRayTracer\Debug\BasicRayTracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RANDY\Documents\Visual Studio 2015\Projects\BasicRayTracer\Debug\BasicRayTracer.lib" /MACHINE:X86 Debug\Background.obj
+         Debug\BasicRayTracer.obj
+         Debug\Camera.obj
+         Debug\Light.obj
+         Debug\Material.obj
+         Debug\Object3D.obj
+         Debug\PhongMaterial.obj
+         Debug\Point3.obj
+         Debug\Ray.obj
+         Debug\RayTracer.obj
+         Debug\RBGAColor.obj
+         Debug\Scene.obj
+         Debug\ShadeRecord.obj
+         Debug\Sphere.obj
+         Debug\TokenReader.obj
+         Debug\ViewPlane.obj
+         BasicRayTracer.vcxproj -> C:\Users\RANDY\Documents\Visual Studio 2015\Projects\BasicRayTracer\Debug\BasicRayTracer.exe
+     1>Done Building Project "C:\Users\RANDY\Documents\Visual Studio 2015\Projects\BasicRayTracer\BasicRayTracer\BasicRayTracer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
